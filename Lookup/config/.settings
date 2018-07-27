@@ -1,0 +1,17 @@
+{
+    "projectName": "Lookup",
+    "username": "deepak@selectiva.com",
+    "id": "8a9b9b00-9168-11e8-b945-c9474de358f3",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://deepak0101-dev-ed.my.salesforce.com",
+    "workspace": "Desktop/testrepo/Lookup",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
